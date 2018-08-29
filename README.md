@@ -154,4 +154,4 @@ FROM prom/cloudwatch-exporter
 
 # TODO
 
-* expose lb tags as an source for *relabling*
+* expose lb tags as an source for *relabeling* by *Prometheus* discovery plugin.
