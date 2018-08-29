@@ -151,3 +151,7 @@ Dockerfile in the same directory and build it with `docker build`:
 ```
 FROM prom/cloudwatch-exporter
 ```
+
+# TODO
+
+* expose lb tags as an source for *relabling*
